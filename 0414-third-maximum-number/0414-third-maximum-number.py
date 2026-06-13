@@ -19,16 +19,16 @@ class Solution:
             elif first_largest > nums[i]:
                 if second_largest is None:
                     second_largest = nums[i]
-                elif second_largest < nums[i] and (third_largest is None or third_largest < second_largest):
+                elif second_largest < nums[i] and third_largest is None:
                     third_largest = second_largest
                     second_largest = nums[i]
-                #elif second_largest < nums[i] and third_largest < second_largest:
-                #    third_largest = second_largest
-                #    second_largest = nums[i]
-                elif second_largest > nums[i] and (third_largest is None or third_largest < nums[i]):
+                elif second_largest < nums[i] and third_largest < second_largest:
+                    third_largest = second_largest
+                    second_largest = nums[i]
+                elif second_largest > nums[i] and third_largest is None:
                     third_largest = nums[i]
-                #elif second_largest > nums[i] and third_largest < nums[i]:
-                #    third_largest = nums[i]
+                elif second_largest > nums[i] and third_largest < nums[i]:
+                    third_largest = nums[i]
         
         if third_largest is not None:
             return third_largest
