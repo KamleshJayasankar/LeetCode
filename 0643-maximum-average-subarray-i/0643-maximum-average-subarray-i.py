@@ -1,5 +1,8 @@
 class Solution:
     def findMaxAverage(self, nums: List[int], k: int) -> float:
+        n = len(nums)
+        if n < k:
+            return 0
         window_slide = sum(nums[0:k])
         max_sum = window_slide
         for i in range(k,len(nums)):
