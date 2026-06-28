@@ -3,13 +3,15 @@ class Solution:
         seen = {}
         left = 0
         right = 0
-        max_length =0
+        max_length = 0
+        max_freq = 0
         while right < len(s):
             if s[right] in seen:
                 seen[s[right]] += 1
             else:
                 seen[s[right]] = 1
-            while (right-left+1)-max(seen.values()) > k:
+            max_freq = max(max_freq, seen[s[right]])
+            while (right-left+1)-max_freq > k:
                 seen[s[left]] -= 1
                 if seen[s[left]] == 0:
                     del seen[s[left]]
