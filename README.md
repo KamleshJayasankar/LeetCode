@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/KamleshJayasankar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,5 +103,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KamleshJayasankar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 <!---LeetCode Topics End-->
