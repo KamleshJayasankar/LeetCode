@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -286,4 +288,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
