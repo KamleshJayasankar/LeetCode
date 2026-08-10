@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
@@ -303,4 +305,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
