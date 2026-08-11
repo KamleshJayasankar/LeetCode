@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/KamleshJayasankar/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/KamleshJayasankar/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
