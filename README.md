@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0133-clone-graph](https://github.com/KamleshJayasankar/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KamleshJayasankar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
