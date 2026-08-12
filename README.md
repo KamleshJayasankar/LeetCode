@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Array
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KamleshJayasankar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
@@ -151,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
@@ -341,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
