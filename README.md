@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/KamleshJayasankar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KamleshJayasankar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0198-house-robber](https://github.com/KamleshJayasankar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Prefix Sum
