@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/KamleshJayasankar/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/KamleshJayasankar/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/KamleshJayasankar/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/KamleshJayasankar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -462,4 +465,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
