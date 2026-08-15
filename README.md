@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/KamleshJayasankar/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/KamleshJayasankar/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KamleshJayasankar/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,4 +473,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
