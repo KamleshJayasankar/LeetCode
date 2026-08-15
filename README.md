@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -378,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/KamleshJayasankar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,4 +484,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
