@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/KamleshJayasankar/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/0055-jump-game/) | Medium |
@@ -530,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
