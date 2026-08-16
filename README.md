@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
+| [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/KamleshJayasankar/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/KamleshJayasankar/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -540,4 +543,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
