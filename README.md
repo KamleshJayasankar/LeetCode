@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0414-third-maximum-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/KamleshJayasankar/LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -556,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,4 +571,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/KamleshJayasankar/LeetCode/tree/main/0139-word-break/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
