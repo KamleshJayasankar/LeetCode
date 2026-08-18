@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/KamleshJayasankar/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KamleshJayasankar/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/KamleshJayasankar/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/KamleshJayasankar/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KamleshJayasankar/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
