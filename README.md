@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/KamleshJayasankar/LeetCode/tree/main/0134-gas-station/) | Medium |
+| [0136-single-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0139-word-break](https://github.com/KamleshJayasankar/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KamleshJayasankar/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0136-single-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
