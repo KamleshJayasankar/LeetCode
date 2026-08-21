@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/KamleshJayasankar/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0136-single-number/) | Easy |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/KamleshJayasankar/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KamleshJayasankar/LeetCode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KamleshJayasankar/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0118-pascals-triangle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
