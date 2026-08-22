@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/KamleshJayasankar/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KamleshJayasankar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0736-parse-lisp-expression](https://github.com/KamleshJayasankar/LeetCode/tree/main/0736-parse-lisp-expression/) | Hard |
 ## Floyd's Cycle Finding Algorithm
