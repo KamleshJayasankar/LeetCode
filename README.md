@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/KamleshJayasankar/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/KamleshJayasankar/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Math
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
