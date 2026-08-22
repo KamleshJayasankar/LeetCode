@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/KamleshJayasankar/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0355-design-twitter](https://github.com/KamleshJayasankar/LeetCode/tree/main/0355-design-twitter/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/KamleshJayasankar/LeetCode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/KamleshJayasankar/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -248,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/KamleshJayasankar/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -490,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
