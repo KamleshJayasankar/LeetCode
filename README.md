@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/KamleshJayasankar/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/KamleshJayasankar/LeetCode/tree/main/0290-word-pattern/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0345-reverse-vowels-of-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
