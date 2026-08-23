@@ -520,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KamleshJayasankar/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0257-binary-tree-paths](https://github.com/KamleshJayasankar/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0401-binary-watch](https://github.com/KamleshJayasankar/LeetCode/tree/main/0401-binary-watch/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/KamleshJayasankar/LeetCode/tree/main/0389-find-the-difference/) | Easy |
+| [0401-binary-watch](https://github.com/KamleshJayasankar/LeetCode/tree/main/0401-binary-watch/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
