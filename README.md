@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/KamleshJayasankar/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/KamleshJayasankar/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/KamleshJayasankar/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/KamleshJayasankar/LeetCode/tree/main/0389-find-the-difference/) | Easy |
 | [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Simulation
@@ -669,4 +672,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
