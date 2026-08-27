@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -591,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/KamleshJayasankar/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -749,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
