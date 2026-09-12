@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KamleshJayasankar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
