@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -595,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
