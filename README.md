@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KamleshJayasankar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
