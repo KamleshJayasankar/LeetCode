@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/KamleshJayasankar/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -669,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/KamleshJayasankar/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
