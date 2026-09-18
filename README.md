@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KamleshJayasankar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
