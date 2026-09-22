@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/KamleshJayasankar/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
 |  |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/KamleshJayasankar/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Sliding Window
@@ -878,4 +880,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/KamleshJayasankar/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
