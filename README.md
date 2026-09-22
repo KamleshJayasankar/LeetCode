@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0012-integer-to-roman](https://github.com/KamleshJayasankar/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -51,8 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KamleshJayasankar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/KamleshJayasankar/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/KamleshJayasankar/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -105,8 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/KamleshJayasankar/LeetCode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0047-permutations-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/KamleshJayasankar/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KamleshJayasankar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -130,8 +131,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -230,8 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0031-next-permutation/) | Medium |
@@ -255,8 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/KamleshJayasankar/LeetCode/tree/main/0035-search-insert-position/) | Easy |
@@ -276,8 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0053-maximum-subarray](https://github.com/KamleshJayasankar/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -286,8 +287,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
@@ -321,8 +322,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -330,8 +331,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/KamleshJayasankar/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -342,8 +343,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/KamleshJayasankar/LeetCode/tree/main/0067-add-binary/) | Easy |
@@ -354,8 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/KamleshJayasankar/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
@@ -386,8 +387,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -396,8 +397,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -405,18 +406,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 ## Range Minimum/Maximum Query
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -428,8 +429,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KamleshJayasankar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
@@ -444,8 +445,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0355-design-twitter](https://github.com/KamleshJayasankar/LeetCode/tree/main/0355-design-twitter/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KamleshJayasankar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/KamleshJayasankar/LeetCode/tree/main/0050-powx-n/) | Medium |
@@ -454,12 +455,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0736-parse-lisp-expression](https://github.com/KamleshJayasankar/LeetCode/tree/main/0736-parse-lisp-expression/) | Hard |
 ## Floyd's Cycle Finding Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/KamleshJayasankar/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0100-same-tree/) | Easy |
@@ -483,8 +484,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0098-validate-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
@@ -514,8 +515,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0100-same-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -539,8 +540,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/KamleshJayasankar/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0100-same-tree/) | Easy |
@@ -564,8 +565,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/KamleshJayasankar/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -573,16 +574,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Lifting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Lowest Common Ancestor
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -595,30 +596,30 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KamleshJayasankar/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0200-number-of-islands](https://github.com/KamleshJayasankar/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0684-redundant-connection](https://github.com/KamleshJayasankar/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Graph Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0133-clone-graph](https://github.com/KamleshJayasankar/LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
@@ -628,8 +629,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KamleshJayasankar/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0039-combination-sum/) | Medium |
@@ -648,8 +649,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/KamleshJayasankar/LeetCode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/KamleshJayasankar/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/0078-subsets/) | Medium |
@@ -664,8 +665,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0045-jump-game-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -675,17 +676,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0274-h-index](https://github.com/KamleshJayasankar/LeetCode/tree/main/0274-h-index/) | Medium |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/KamleshJayasankar/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KamleshJayasankar/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
@@ -695,185 +697,185 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Randomized
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0014-longest-common-prefix](https://github.com/KamleshJayasankar/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/KamleshJayasankar/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/KamleshJayasankar/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/KamleshJayasankar/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/KamleshJayasankar/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0572-subtree-of-another-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0295-find-median-from-data-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Algorithm X
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0051-n-queens](https://github.com/KamleshJayasankar/LeetCode/tree/main/0051-n-queens/) | Hard |
 ## Topological Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 ## Bidirectional Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0127-word-ladder](https://github.com/KamleshJayasankar/LeetCode/tree/main/0127-word-ladder/) | Hard |
 ## Shortest Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Minimum Spanning Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Prim's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Kruskal's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Borůvka's Algorithm
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Minimax
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0070-climbing-stairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/KamleshJayasankar/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Manacher
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 ## Knapsack Problem
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0322-coin-change](https://github.com/KamleshJayasankar/LeetCode/tree/main/0322-coin-change/) | Medium |
 ## Longest Increasing Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Brute-Force Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0139-word-break](https://github.com/KamleshJayasankar/LeetCode/tree/main/0139-word-break/) | Medium |
 ## 0-1 Knapsack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0416-partition-equal-subset-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Longest Common Subsequence
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1143-longest-common-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Quicksort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0056-merge-intervals](https://github.com/KamleshJayasankar/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0175-combine-two-tables](https://github.com/KamleshJayasankar/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/0258-add-digits/) | Easy |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Primality Test
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Sieve Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Prime Number Sieve
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hamiltonian Path
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 ## Bitmask
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0146-lru-cache](https://github.com/KamleshJayasankar/LeetCode/tree/main/0146-lru-cache/) | Medium |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
