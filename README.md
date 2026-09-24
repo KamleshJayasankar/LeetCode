@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/KamleshJayasankar/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/KamleshJayasankar/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -456,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/KamleshJayasankar/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/KamleshJayasankar/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/KamleshJayasankar/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KamleshJayasankar/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
