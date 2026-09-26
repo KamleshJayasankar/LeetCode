@@ -1,0 +1,30 @@
+class Solution {
+    public int[] countPoints(int[][] points, int[][] queries) {
+        int[] answer = new int[queries.length];
+        
+        for (int i = 0; i < queries.length; i++) {
+            int qx = queries[i][0];
+            int qy = queries[i][1];
+            int r = queries[i][2];
+            int rSquared = r * r;
+            
+            int count = 0;
+            
+            for (int[] point : points) {
+                int px = point[0];
+                int py = point[1];
+                
+                int dx = px - qx;
+                int dy = py - qy;
+                
+                if (dx * dx + dy * dy <= rSquared) {
+                    count++;
+                }
+            }
+            
+            answer[i] = count;
+        }
+        
+        return answer;
+    }
+}
