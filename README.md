@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/KamleshJayasankar/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Linked List
@@ -760,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/KamleshJayasankar/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
 ## Randomized
 |  |
 | ------- |
