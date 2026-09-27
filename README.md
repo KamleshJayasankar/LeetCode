@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0736-parse-lisp-expression](https://github.com/KamleshJayasankar/LeetCode/tree/main/0736-parse-lisp-expression/) | Hard |
+| [0771-jewels-and-stones](https://github.com/KamleshJayasankar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0736-parse-lisp-expression](https://github.com/KamleshJayasankar/LeetCode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0761-special-binary-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/KamleshJayasankar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
