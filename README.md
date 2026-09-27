@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/KamleshJayasankar/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -453,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -927,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Enumeration
 |  |
 | ------- |
