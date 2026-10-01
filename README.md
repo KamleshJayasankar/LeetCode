@@ -564,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KamleshJayasankar/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KamleshJayasankar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KamleshJayasankar/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KamleshJayasankar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1302-deepest-leaves-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KamleshJayasankar/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -660,6 +663,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1302-deepest-leaves-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/KamleshJayasankar/LeetCode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1382-balance-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/KamleshJayasankar/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
