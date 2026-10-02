@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KamleshJayasankar/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1550-three-consecutive-odds](https://github.com/KamleshJayasankar/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KamleshJayasankar/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Simulation
@@ -780,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
