@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/KamleshJayasankar/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0621-task-scheduler](https://github.com/KamleshJayasankar/LeetCode/tree/main/0621-task-scheduler/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KamleshJayasankar/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KamleshJayasankar/LeetCode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/KamleshJayasankar/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0761-special-binary-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/0761-special-binary-string) |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KamleshJayasankar/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0736-parse-lisp-expression](https://github.com/KamleshJayasankar/LeetCode/tree/main/0736-parse-lisp-expression/) | Hard |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
@@ -495,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KamleshJayasankar/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/KamleshJayasankar/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 ## Range Minimum/Maximum Query
@@ -576,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/KamleshJayasankar/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -675,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0257-binary-tree-paths](https://github.com/KamleshJayasankar/LeetCode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/KamleshJayasankar/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/KamleshJayasankar/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1033,4 +1039,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/KamleshJayasankar/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
