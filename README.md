@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2942-find-words-containing-character](https://github.com/KamleshJayasankar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KamleshJayasankar/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -395,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting
 |  |
