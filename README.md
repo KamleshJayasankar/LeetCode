@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/KamleshJayasankar/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KamleshJayasankar/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1512-number-of-good-pairs](https://github.com/KamleshJayasankar/LeetCode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KamleshJayasankar/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -815,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KamleshJayasankar/LeetCode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
