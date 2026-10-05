@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KamleshJayasankar/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KamleshJayasankar/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KamleshJayasankar/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -1028,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/KamleshJayasankar/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KamleshJayasankar/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Primality Test
