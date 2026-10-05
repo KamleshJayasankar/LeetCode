@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/KamleshJayasankar/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0520-detect-capital](https://github.com/KamleshJayasankar/LeetCode/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/KamleshJayasankar/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
