@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KamleshJayasankar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2942-find-words-containing-character](https://github.com/KamleshJayasankar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KamleshJayasankar/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2469-convert-the-temperature](https://github.com/KamleshJayasankar/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KamleshJayasankar/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
