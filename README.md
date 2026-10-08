@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/KamleshJayasankar/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/KamleshJayasankar/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/KamleshJayasankar/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -531,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0856-score-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KamleshJayasankar/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1039,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
