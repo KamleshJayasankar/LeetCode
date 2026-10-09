@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/KamleshJayasankar/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [1829-maximum-xor-for-each-query](https://github.com/KamleshJayasankar/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KamleshJayasankar/LeetCode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1829-maximum-xor-for-each-query](https://github.com/KamleshJayasankar/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2574-left-and-right-sum-differences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Counting
@@ -864,6 +866,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1829-maximum-xor-for-each-query](https://github.com/KamleshJayasankar/LeetCode/tree/master/1829-maximum-xor-for-each-query) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/KamleshJayasankar/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
