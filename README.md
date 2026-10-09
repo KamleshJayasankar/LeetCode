@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KamleshJayasankar/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0853-car-fleet](https://github.com/KamleshJayasankar/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/KamleshJayasankar/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/KamleshJayasankar/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -459,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/KamleshJayasankar/LeetCode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/KamleshJayasankar/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/KamleshJayasankar/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/KamleshJayasankar/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1920-build-array-from-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KamleshJayasankar/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/KamleshJayasankar/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/KamleshJayasankar/LeetCode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/KamleshJayasankar/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0885-spiral-matrix-iii](https://github.com/KamleshJayasankar/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
