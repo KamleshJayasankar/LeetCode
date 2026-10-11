@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-reveal-cards-in-increasing-order](https://github.com/KamleshJayasankar/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1329-sort-the-matrix-diagonally](https://github.com/KamleshJayasankar/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KamleshJayasankar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/KamleshJayasankar/LeetCode/tree/master/1630-arithmetic-subarrays) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1329-sort-the-matrix-diagonally](https://github.com/KamleshJayasankar/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/KamleshJayasankar/LeetCode/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KamleshJayasankar/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0885-spiral-matrix-iii](https://github.com/KamleshJayasankar/LeetCode/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0980-unique-paths-iii/) | Hard |
 | [0994-rotting-oranges](https://github.com/KamleshJayasankar/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1329-sort-the-matrix-diagonally](https://github.com/KamleshJayasankar/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1476-subrectangle-queries](https://github.com/KamleshJayasankar/LeetCode/tree/master/1476-subrectangle-queries) |
 | [1672-richest-customer-wealth](https://github.com/KamleshJayasankar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
