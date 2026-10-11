@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2375-construct-smallest-number-from-di-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2785-sort-vowels-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/KamleshJayasankar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1630-arithmetic-subarrays](https://github.com/KamleshJayasankar/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2785-sort-vowels-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3446-sort-matrix-by-diagonals](https://github.com/KamleshJayasankar/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
