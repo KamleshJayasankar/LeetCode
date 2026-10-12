@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/KamleshJayasankar/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KamleshJayasankar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/KamleshJayasankar/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KamleshJayasankar/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -905,6 +907,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/KamleshJayasankar/LeetCode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KamleshJayasankar/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KamleshJayasankar/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -930,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting Sort
 |  |
