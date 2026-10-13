@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KamleshJayasankar/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -616,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/KamleshJayasankar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KamleshJayasankar/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/KamleshJayasankar/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
