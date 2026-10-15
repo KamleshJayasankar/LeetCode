@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KamleshJayasankar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1630-arithmetic-subarrays](https://github.com/KamleshJayasankar/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/KamleshJayasankar/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/KamleshJayasankar/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/KamleshJayasankar/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/KamleshJayasankar/LeetCode/tree/master/1630-arithmetic-subarrays) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/KamleshJayasankar/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/KamleshJayasankar/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
