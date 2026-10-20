@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+| [3886-sum-of-sortable-integers](https://github.com/KamleshJayasankar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Array
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/KamleshJayasankar/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/KamleshJayasankar/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3886-sum-of-sortable-integers](https://github.com/KamleshJayasankar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/KamleshJayasankar/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KamleshJayasankar/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KamleshJayasankar/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3886-sum-of-sortable-integers](https://github.com/KamleshJayasankar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/KamleshJayasankar/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Sliding Window
 |  |
@@ -1171,6 +1174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/KamleshJayasankar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KamleshJayasankar/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/KamleshJayasankar/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Primality Test
 |  |
 | ------- |
