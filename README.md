@@ -355,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KamleshJayasankar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -962,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/KamleshJayasankar/LeetCode/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KamleshJayasankar/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/KamleshJayasankar/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Greedy
 |  |
 | ------- |
