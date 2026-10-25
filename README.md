@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1796-second-largest-digit-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/KamleshJayasankar/LeetCode/tree/master/1816-truncate-sentence) |
 | [1927-sum-game](https://github.com/KamleshJayasankar/LeetCode/tree/main/1927-sum-game/) | Medium |
+| [2000-reverse-prefix-of-word](https://github.com/KamleshJayasankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KamleshJayasankar/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KamleshJayasankar/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2000-reverse-prefix-of-word](https://github.com/KamleshJayasankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KamleshJayasankar/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/KamleshJayasankar/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KamleshJayasankar/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/KamleshJayasankar/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/KamleshJayasankar/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
