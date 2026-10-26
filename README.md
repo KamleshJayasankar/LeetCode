@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1255-maximum-score-words-formed-by-letters](https://github.com/KamleshJayasankar/LeetCode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/KamleshJayasankar/LeetCode/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KamleshJayasankar/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/KamleshJayasankar/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1329-sort-the-matrix-diagonally](https://github.com/KamleshJayasankar/LeetCode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KamleshJayasankar/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/KamleshJayasankar/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
