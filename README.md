@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/KamleshJayasankar/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/KamleshJayasankar/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -917,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KamleshJayasankar/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -955,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-all-paths-from-source-to-target](https://github.com/KamleshJayasankar/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -1123,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0743-network-delay-time](https://github.com/KamleshJayasankar/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
