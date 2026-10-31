@@ -353,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/KamleshJayasankar/LeetCode/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2392-build-a-matrix-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/KamleshJayasankar/LeetCode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KamleshJayasankar/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/KamleshJayasankar/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/KamleshJayasankar/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2392-build-a-matrix-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KamleshJayasankar/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3446-sort-matrix-by-diagonals](https://github.com/KamleshJayasankar/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/KamleshJayasankar/LeetCode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KamleshJayasankar/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/KamleshJayasankar/LeetCode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/KamleshJayasankar/LeetCode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
@@ -1118,11 +1121,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/KamleshJayasankar/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/KamleshJayasankar/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [2392-build-a-matrix-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2392-build-a-matrix-with-conditions) |
 ## Bidirectional Search
 |  |
 | ------- |
