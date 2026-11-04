@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3146-permutation-difference-between-two-strings](https://github.com/KamleshJayasankar/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/KamleshJayasankar/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/KamleshJayasankar/LeetCode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3446-sort-matrix-by-diagonals](https://github.com/KamleshJayasankar/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/KamleshJayasankar/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KamleshJayasankar/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/KamleshJayasankar/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/KamleshJayasankar/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/KamleshJayasankar/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/KamleshJayasankar/LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/KamleshJayasankar/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3280-convert-date-to-binary](https://github.com/KamleshJayasankar/LeetCode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/KamleshJayasankar/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KamleshJayasankar/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KamleshJayasankar/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3516-find-closest-person](https://github.com/KamleshJayasankar/LeetCode/tree/master/3516-find-closest-person) |
 | [3525-find-x-value-of-array-ii](https://github.com/KamleshJayasankar/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -643,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
 | ------- |
@@ -935,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/KamleshJayasankar/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KamleshJayasankar/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/KamleshJayasankar/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
