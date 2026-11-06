@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2325-decode-the-message](https://github.com/KamleshJayasankar/LeetCode/tree/master/2325-decode-the-message) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/KamleshJayasankar/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/KamleshJayasankar/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/KamleshJayasankar/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/KamleshJayasankar/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/KamleshJayasankar/LeetCode/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2747-count-zero-request-servers](https://github.com/KamleshJayasankar/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2785-sort-vowels-in-a-string](https://github.com/KamleshJayasankar/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KamleshJayasankar/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-sort-matrix-by-diagonals](https://github.com/KamleshJayasankar/LeetCode/tree/master/3446-sort-matrix-by-diagonals) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/KamleshJayasankar/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/KamleshJayasankar/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KamleshJayasankar/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2747-count-zero-request-servers](https://github.com/KamleshJayasankar/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KamleshJayasankar/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KamleshJayasankar/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/KamleshJayasankar/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -651,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KamleshJayasankar/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/KamleshJayasankar/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KamleshJayasankar/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/KamleshJayasankar/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/KamleshJayasankar/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Stack
 |  |
